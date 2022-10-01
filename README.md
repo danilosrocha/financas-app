@@ -1,5 +1,5 @@
 # App de finanças
-Aplicativo para organização de finaçcas  :books: :-Repositório criado para o projeto de criação de um aplicativo
+Aplicativo para organização de finanças  :books: :-Repositório criado para o projeto de criação de um aplicativo
 
 ## Início do projeto 
 - 
